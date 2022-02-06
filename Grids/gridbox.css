@@ -1,0 +1,16 @@
+/*.grid {
+    display: grid;
+    padding: 8px;
+    width: 100%;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-rows: 50px 50px 50px ;
+
+}*/
+
+.grid > div {
+    border: 1px solid;
+    border-color:  blue;
+    font-size: 20px;
+    padding: 4px;
+    margin: 4px;
+}
